@@ -3,6 +3,8 @@ from common_imports import *
 # Instancia o objeto Navegador
 atualNavegador = Navegador
 
+## NOVO COMMIT
+
 class Damdfe:
     
     def __init__(self, nome, placa):
